@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover: assets/images/bus.jpg
-navigation: True
-title: The Death of You and Me
-date: 2020-04-24 23:50:00
-tags:
+cover: 'assets/images/piano.jpg'
+navigation: true
+title: Estrelas do Mar
+date: 1865-11-26 10:18:00
+tags: fiction
 class: post-template
-subclass: 'post'
-author: lucas
+subclass: 'post tag-fiction'
+author: lewis
 ---
 
 
